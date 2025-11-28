@@ -1,4 +1,4 @@
-# 💊 Medicine Reminder Application
+## 💊 Medicine Reminder Application
 
 An Android mobile application designed to help anyone manage their medication schedule and receive timely reminders for taking their medicines. Built with **Flutter** and **Spring Boot**.
 
